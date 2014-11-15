@@ -1,0 +1,7 @@
+name: Bank
+version: 1.0
+author: maltesermailo
+main: de.maltesermailo.bank.BankPlugin
+commands:
+  money:
+    description: Ruft deinen Kontostand auf. Und diverse Befehle.
